@@ -1,0 +1,54 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+
+header{
+    width: 70%;
+    height: 15rem;
+    text-align: center;
+    background-color: black;
+    margin: auto;
+}
+
+footer{
+   background-color: rgb(38, 164, 202);;
+   width: 70%;
+   height: 3rem;
+   padding: 0rem;
+   bottom: 0;
+   left: 15%;
+   position: absolute;
+}
+
+footer a img{
+    height: 2rem;
+    margin-top: .5rem;
+    margin-left: .5rem;
+}
+
+#menu{
+    padding-top: 0%;
+}
+
+#menu div{
+    background-color: rgb(38, 164, 202);
+}
+
+#menu a{
+    color: black;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+#menu a:active{
+    color: white;
+    background-color: black;
+}
+
+#menu a:hover{
+    color:rgb(38, 164, 202);
+    background-color: white;
+}
+
+
